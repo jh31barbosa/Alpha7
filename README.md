@@ -1,2 +1,2 @@
 # Alpha7
-Projeto com objetivo de criar Alpha7, um chat de IA generativa utilizando integração com alguma api IA, como chatgpt e deepseek. 
+O projeto Alpha7 tem o objetivo de criar um chat de IA generativa utilizando como base o consumo de uma API gratuitavdo google(gemini). 
