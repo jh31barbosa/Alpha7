@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'ai_core',
 ]
 
 MIDDLEWARE = [
@@ -82,6 +83,7 @@ DATABASES = {
 
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
+GOOGLE_API_KEY = 'dotenv("GOOGLE_API_KEY")'
 
 AUTH_PASSWORD_VALIDATORS = [
     {
